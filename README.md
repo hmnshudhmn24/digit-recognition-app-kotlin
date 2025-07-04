@@ -45,4 +45,3 @@ git clone https://github.com/yourusername/kotlin-digit-recognition-app.git
 - On-device training  
 - Upload user feedback for improving accuracy  
 
----
